@@ -80,5 +80,5 @@ export default function Auth({ onLogin }) {
 
       </div>
     </div>
-  );
+  )
 }
